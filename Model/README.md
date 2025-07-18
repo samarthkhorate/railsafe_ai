@@ -51,8 +51,3 @@ The project consists of an image dataset of Railway Track in **Train**, **Test**
 **CONCLUSION**:
 After observing the model, it can be inferred that the CNN model incurred **loss (Binary Crossentropy)** of **0.70** with an **accuracy** of around **0.502** (approx.) whereas when an **`Xception`** was used, it got an accuracy of **`100 %`** which is extremely good on this dataset (small in size). Atlast, the model is effectively classifying the Rail Tracks as Defective or Not. 
 
-**Contributed By** : 😄 
-**ANKIT PANDEY** 
-You can Connect with me at :
-LinkedIn : [LinkedIn Profile](www.linkedin.com/in/ankit-pandey-2003ap)
-Twitter : [Twitter Handle](https://twitter.com/thecoolpandey)
